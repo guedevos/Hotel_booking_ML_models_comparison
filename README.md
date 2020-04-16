@@ -8,7 +8,7 @@ To check out the project look at the .ipynb file.
 
 Content of exploratory data analysis.
 
-__Repeated guest effect on cancellations.__
+- __Repeated guest effect on cancellations.__
 - __Night spent at hotels.__
 - __Hotel type with more time spent.__
 - __Effects of deposit on cancellations by segments.__
